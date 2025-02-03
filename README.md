@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmitrijt9
-- 👀 I’m interested in football (soccer for american friends), software (especially web tech) and business.
-- 🌱 I’m currently learning soft skills, deep knowledge about nodejs and typescript, some basic investing stuff.
+- 👀 I’m interested in ⚽ football, software (especially web tech) and business.
+- 🌱 I’m currently learning kubernetes and cloud-native staff.
 - 📫 How to reach me? See my personal web, there are some links - [dimot.dev](https://dimot.dev)
 
 <!---
